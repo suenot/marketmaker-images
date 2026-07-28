@@ -285,3 +285,35 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `impermanent-loss-lvr-lp-profitability-concentrated-leverage.png` - concentrated liquidity as leveraged IL
 - `impermanent-loss-lvr-lp-profitability-lvr-decomposition.png` - fee, LVR, and net-PnL decomposition
 - `impermanent-loss-lvr-lp-profitability-markout.png` - cumulative adverse-selection markout
+
+## trade-classification-algorithms
+
+- `trade-classification-algorithms.png` - hero
+- `trade-classification-algorithms-tick-test.png` - tick-test carry-forward classification
+- `trade-classification-algorithms-quote-rule-lee-ready.png` - quote rule and Lee-Ready midpoint fallback
+- `trade-classification-algorithms-bulk-volume-classification.png` - bulk-volume buy/sell fraction split
+- `trade-classification-algorithms-ground-truth-measurement.png` - classifier agreement and downstream impact gap
+
+## liquidity-prediction-execution
+
+- `liquidity-prediction-execution.png` - hero
+- `liquidity-prediction-execution-volume-curve-update.png` - adaptive intraday volume-curve update
+- `liquidity-prediction-execution-level-correction.png` - live implied-total correction
+- `liquidity-prediction-execution-tercile-analysis.png` - forecast difficulty by day tercile
+- `liquidity-prediction-execution-book-slope.png` - order-book slope and fragile depth
+
+## order-flow-imbalance-prediction
+
+- `order-flow-imbalance-prediction.png` - hero
+- `order-flow-imbalance-prediction-event-decomposition.png` - event decomposition into signed flow
+- `order-flow-imbalance-prediction-multilevel-pca.png` - multilevel flow collapsed by PCA
+- `order-flow-imbalance-prediction-trade-classification.png` - quote-rule trade classification
+- `order-flow-imbalance-prediction-market-making-skew.png` - flow imbalance and inventory skew
+
+## koopman-operator-market-dynamics
+
+- `koopman-operator-market-dynamics.png` - hero
+- `koopman-operator-market-dynamics-linearizing-dynamics.png` - nonlinear flow linearized by lifting
+- `koopman-operator-market-dynamics-eigenvalue-spectrum.png` - persistent and unstable eigenmodes
+- `koopman-operator-market-dynamics-mode-stability.png` - mode stability across windows
+- `koopman-operator-market-dynamics-spectral-radius-leadlag.png` - spectral radius lead versus realized volatility
