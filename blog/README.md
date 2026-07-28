@@ -1,5 +1,21 @@
 # Blog Images
 
+## smart-order-routing-crypto
+
+- `smart-order-routing-crypto.png` - hero
+- `smart-order-routing-crypto-no-nbbo.png` - fragmented crypto feeds versus a unified NBBO
+- `smart-order-routing-crypto-consolidated-book.png` - consolidated order book and phantom liquidity
+- `smart-order-routing-crypto-routing-optimization.png` - convex routing allocation
+- `smart-order-routing-crypto-treasury.png` - prefunded venue treasury management
+
+## slippage-cost-models-backtest
+
+- `slippage-cost-models-backtest.png` - hero
+- `slippage-cost-models-backtest-cost-ladder.png` - four-rung transaction-cost model ladder
+- `slippage-cost-models-backtest-sqrt-law.png` - square-root market-impact law
+- `slippage-cost-models-backtest-regime-stress.png` - cost across volatility regimes
+- `slippage-cost-models-backtest-leaderboard-reshuffle.png` - strategy rank inversion under realistic costs
+
 ## onchain-arbitrage-atomic-flash-loans
 
 - `onchain-arbitrage-atomic-flash-loans.png` - hero
