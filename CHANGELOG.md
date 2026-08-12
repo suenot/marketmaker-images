@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-08-12
+
+### Added
+
+- Add 173 unique dark-theme quantitative research illustrations for every substantive section in the August 7-25 blog articles.
+
 ## [0.1.0] - 2026-08-12
 
 ### Added
@@ -14,5 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Establish explicit project versioning and changelog tracking.
 - Add five premium dark hero images for the August 7-11 quantitative research articles.
 
-[Unreleased]: https://github.com/suenot/marketmaker-images/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/suenot/marketmaker-images/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/suenot/marketmaker-images/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/suenot/marketmaker-images/releases/tag/v0.1.0
