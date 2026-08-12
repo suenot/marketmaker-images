@@ -333,3 +333,23 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `koopman-operator-market-dynamics-eigenvalue-spectrum.png` - persistent and unstable eigenmodes
 - `koopman-operator-market-dynamics-mode-stability.png` - mode stability across windows
 - `koopman-operator-market-dynamics-spectral-radius-leadlag.png` - spectral radius lead versus realized volatility
+
+## granger-causality-lead-lag-crypto
+
+- `granger-causality-lead-lag-crypto.png` - hero
+
+## hamiltonian-neural-networks-finance
+
+- `hamiltonian-neural-networks-finance.png` - hero
+
+## hawkes-process-order-arrival
+
+- `hawkes-process-order-arrival.png` - hero
+
+## instrumental-variables-quantitative-finance
+
+- `instrumental-variables-quantitative-finance.png` - hero
+
+## knowledge-distillation-trading-models
+
+- `knowledge-distillation-trading-models.png` - hero
